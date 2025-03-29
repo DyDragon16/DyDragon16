@@ -30,12 +30,29 @@
     </td>
   </tr>
   <tr>
-    <td><strong>Frameworks & Công cụ</strong></td>
+    <td><strong>Frameworks</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring Boot">
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js">
       <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white" alt="ASP.NET Core">
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Công cụ</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
+      <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white" alt="Visual Studio 2022">
+      <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white" alt="Android Studio">
+      <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
+      <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white" alt="Apache NetBeans IDE">
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman">
+      <img src="https://img.shields.io/badge/Playwright-45ba4b?style=flat&logo=playwright&logoColor=white" alt="Playwright">
+      <img src="https://img.shields.io/badge/SSMS-0078D4?style=flat&logo=microsoft-sql-server&logoColor=white" alt="SQL Server Management Studio">
+      <img src="https://img.shields.io/badge/Laragon-0E83CD?style=flat&logo=laragon&logoColor=white" alt="Laragon">
+      <img src="https://img.shields.io/badge/DataGrip-000000?style=flat&logo=datagrip&logoColor=white" alt="DataGrip">
+      <img src="https://freeappsai.com/wp-content/uploads/2024/04/Cursor-1.png" alt="Cursor" width="50">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK3-8-8c-qmOBDxI9BDSrQHuhWX2uox-XBZw&s" alt="Start UML" width="50">
     </td>
   </tr>
   <tr>
