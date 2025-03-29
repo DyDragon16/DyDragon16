@@ -1,4 +1,4 @@
-## Hi there 👋
+## Xin chào, tôi là Lê Quang Duy 👋
 
 <!--
 **DyDragon16/DyDragon16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
