@@ -9,7 +9,7 @@
 ## 🚀 Về tôi
 
 - 🎓 **Hiện tại:** Sinh viên năm cuối tại **Đại học Công nghệ TP.HCM (HUTECH)**  
-- 🌱 **Đang khám phá:** Các công nghệ mới như **Spring Boot**, **Node.js**, và kiến thức về hệ thống phân tán  
+- 🌱 **Đang khám phá:** Các công nghệ mới như **Spring Boot**, **Node.js**, **React** và kiến thức về hệ thống phân tán  
 - 💬 **Thích chia sẻ về:** Lập trình Back-end, tối ưu hóa hiệu suất, và những câu chuyện công nghệ thú vị  
 - 📫 **Liên hệ với tôi:** [duyle1612003@gmail.com](mailto:duyle1612003@gmail.com)  
 - ⚡ **Sở thích cá nhân:** Chinh phục núi cao, vung vợt cầu lông, khám phá thế giới qua du lịch, và đắm mình trong các tựa game đỉnh cao  
