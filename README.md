@@ -20,7 +20,7 @@
 
 <table>
   <tr>
-    <td><strong>Ngôn ngữ lập trình</strong></td>
+    <td><strong>-dialog lập trình</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java">
       <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#">
@@ -57,7 +57,6 @@
       <img src="https://img.shields.io/badge/Laragon-0E83CD?style=flat&logo=laragon&logoColor=white" alt="Laragon">
       <img src="https://img.shields.io/badge/DataGrip-000000?style=flat&logo=datagrip&logoColor=white" alt="DataGrip">
       <img src="https://freeappsai.com/wp-content/uploads/2024/04/Cursor-1.png" alt="Cursor" width="50">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK3-8-8c-qmOBDxI9BDSrQHuhWX2uox-XBZw&s" alt="Start UML" width="50">
     </td>
   </tr>
   <tr>
@@ -68,7 +67,6 @@
       <img src="https://img.shields.io/badge/SSMS-0078D4?style=flat&logo=microsoft-sql-server&logoColor=white" alt="SQL Server Management Studio">
       <img src="https://img.shields.io/badge/Laragon-0E83CD?style=flat&logo=laragon&logoColor=white" alt="Laragon">
       <img src="https://img.shields.io/badge/DataGrip-000000?style=flat&logo=datagrip&logoColor=white" alt="DataGrip">
-      <img src="https://freeappsai.com/wp-content/uploads/2024/04/Cursor-1.png" alt="Cursor" width="50">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK3-8-8c-qmOBDxI9BDSrQHuhWX2uox-XBZw&s" alt="Start UML" width="50">
     </td>
   </tr>
@@ -90,6 +88,9 @@
 
 - **[SushiRestaurant](https://github.com/DyDragon16/SushiRestaurant):**  
   Hệ thống quản lý nhà hàng Sushi với giao diện thân thiện và Back-end được xây dựng bằng Spring Boot.  
+
+- **[AirQuality](https://github.com/DyDragon16/AirQuality):**  
+  Một ứng dụng theo dõi chất lượng không khí sử dụng dữ liệu thời gian thực từ các API công cộng. Dự án tập trung vào xử lý và hiển thị dữ liệu môi trường một cách trực quan và dễ hiểu.  
 
 > 👉 Xem thêm các dự án của tôi trên [GitHub](https://github.com/DyDragon16)!
 
